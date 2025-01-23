@@ -1,0 +1,27 @@
+{
+  "name": "eldorado-study-ddd-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielSahdo/eldorado-study-ddd-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielSahdo/eldorado-study-ddd-intro/issues"
+  },
+  "homepage": "https://github.com/GabrielSahdo/eldorado-study-ddd-intro#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
